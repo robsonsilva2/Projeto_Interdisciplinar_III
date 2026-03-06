@@ -1,0 +1,10 @@
+INSERT INTO veiculos (modelo, marca, preco) VALUES 
+("lamborghini aventador ultimae", "lamborghini", 98000.00),
+("lamborghini centenário","lamborghini",6000.00),
+("ferrari portofino m","Ferrari",2999.99),
+("porche 911 gts","porsche",1299.00),
+("porche 911 turbo s", "porsche", 1350.00),
+("porche 911 st manual","porsche", 1500.00),
+("chevrolet camaro ss", "camaro", 500.00),
+("chevrolet celta 1.4 vhc-e", "chevrolet", 100000.00),
+("fiat palio 1.4", "fiat", 30000.00);
